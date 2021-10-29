@@ -1,4 +1,4 @@
-# shopify-scripts
+# Collection of Cool Shopify Scripts
 
 Here's a collection of nice shopify scripts for different things.
 
